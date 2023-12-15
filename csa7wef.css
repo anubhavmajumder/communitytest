@@ -1,0 +1,94 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * adobe-clean:
+ *   - http://typekit.com/eulas/00000000000000007735dac8
+ *   - http://typekit.com/eulas/00000000000000007735dacd
+ *   - http://typekit.com/eulas/00000000000000007735dad8
+ *   - http://typekit.com/eulas/00000000000000007735dadb
+ *   - http://typekit.com/eulas/00000000000000007735dad4
+ *   - http://typekit.com/eulas/00000000000000007735dad6
+ *   - http://typekit.com/eulas/00000000000000007735dadc
+ * adobe-clean-serif:
+ *   - http://typekit.com/eulas/00000000000000007735dac2
+ *   - http://typekit.com/eulas/00000000000000007735dac4
+ *   - http://typekit.com/eulas/00000000000000007735dac6
+ *   - http://typekit.com/eulas/00000000000000007735dac7
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-08-24 05:15:29 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"adobe-clean";
+src:url("l") format("woff2"),url("d") format("woff"),url("a") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("l-1") format("woff2"),url("d-1") format("woff"),url("a-1") format("opentype");
+font-display:swap;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("l-2") format("woff2"),url("d-2") format("woff"),url("a-2") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("l-3") format("woff2"),url("d-3") format("woff"),url("a-3") format("opentype");
+font-display:swap;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("l-4") format("woff2"),url("d-6") format("woff"),url("a-6") format("opentype");
+font-display:swap;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("l-5") format("woff2"),url("d-4") format("woff"),url("a-4") format("opentype");
+font-display:swap;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean";
+src:url("l-6") format("woff2"),url("d-5") format("woff"),url("a-5") format("opentype");
+font-display:swap;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean-serif";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean-serif";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:swap;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean-serif";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-clean-serif";
+src:url("") format("woff2"),url("") format("woff"),url("") format("opentype");
+font-display:swap;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+.tk-adobe-clean { font-family: "adobe-clean",sans-serif; }
+.tk-adobe-clean-serif { font-family: "adobe-clean-serif",sans-serif; }
